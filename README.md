@@ -1,2 +1,2 @@
 # TDDKata
-My attempt to perform popular kata exercises
+My first attempt to perform popular kata exercises
